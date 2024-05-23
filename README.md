@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to Data Engineering.
 
-## Contents
+# Contents
 
 - [Databases](#databases)
 - [Data Comparison](#data-comparison)
